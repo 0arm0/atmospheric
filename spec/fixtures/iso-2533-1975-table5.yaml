@@ -7,7 +7,7 @@ note-en: Values in terms of geometrical altitude.
 note-fr: Valeurs en fonction de l'altitude géométrique.
 note-ru: Значения величин в функции геометрической высоты.
 by-geometrical-altitude:
-  - geometrical-altitude: -2000
+  - geometrical-altitude: -20000000
     geopotential-altitude: -2001
     temperature-K: 301154
     temperature-C: 28004
